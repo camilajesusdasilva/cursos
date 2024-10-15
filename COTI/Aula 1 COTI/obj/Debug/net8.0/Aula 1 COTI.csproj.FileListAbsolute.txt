@@ -1,0 +1,14 @@
+C:\Users\Usuário\source\repos\Aula 1 COTI\obj\Debug\net8.0\Aula 1 COTI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\Aula 1 COTI\obj\Debug\net8.0\Aula 1 COTI.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\Aula 1 COTI\obj\Debug\net8.0\Aula 1 COTI.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\Aula 1 COTI\obj\Debug\net8.0\Aula 1 COTI.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\Aula 1 COTI\bin\Debug\net8.0\Aula 1 COTI.exe
+C:\Users\Usuário\source\repos\Aula 1 COTI\bin\Debug\net8.0\Aula 1 COTI.deps.json
+C:\Users\Usuário\source\repos\Aula 1 COTI\bin\Debug\net8.0\Aula 1 COTI.runtimeconfig.json
+C:\Users\Usuário\source\repos\Aula 1 COTI\bin\Debug\net8.0\Aula 1 COTI.dll
+C:\Users\Usuário\source\repos\Aula 1 COTI\bin\Debug\net8.0\Aula 1 COTI.pdb
+C:\Users\Usuário\source\repos\Aula 1 COTI\obj\Debug\net8.0\Aula 1 COTI.dll
+C:\Users\Usuário\source\repos\Aula 1 COTI\obj\Debug\net8.0\refint\Aula 1 COTI.dll
+C:\Users\Usuário\source\repos\Aula 1 COTI\obj\Debug\net8.0\Aula 1 COTI.pdb
+C:\Users\Usuário\source\repos\Aula 1 COTI\obj\Debug\net8.0\Aula 1 COTI.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\Aula 1 COTI\obj\Debug\net8.0\ref\Aula 1 COTI.dll
