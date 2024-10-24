@@ -2,8 +2,8 @@
 
 |             Aulas             |
 |-------------------------------|
-|  [Introdução ao Ambiente Cloud](https://github.com/camilajesusdasilva/cursos/main/dio/resumos-do-lab/resumos.md#introdu%C3%A7%C3%A3o-ao-ambiente-cloud) |
-|  [Conceitos Iniciais de Cloud com Azure](https://github.com/camilajesusdasilva/cursos/main/dio/resumos-do-lab/resumos.md#introdu%C3%A7%C3%A3o-ao-ambiente-cloud) |
+|  [Introdução ao Ambiente Cloud](https://github.com/camilajesusdasilva/cursos/blob/main/dio/resumos-do-lab/resumos.md#introdu%C3%A7%C3%A3o-ao-ambiente-cloud) |
+|  [Conceitos Iniciais de Cloud com Azure](https://github.com/camilajesusdasilva/cursos/blob/main/dio/resumos-do-lab/resumos.md#introdu%C3%A7%C3%A3o-ao-ambiente-cloud) |
 |  [Arquitetura e Serviços Azure]() |
 |  [Gerenciamento e Governança na Azure]() |
 
