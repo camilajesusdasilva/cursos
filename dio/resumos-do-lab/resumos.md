@@ -7,28 +7,6 @@
 |  [Arquitetura e Serviços Azure]() |
 |  [Gerenciamento e Governança na Azure]() |
 
-## Introdução ao Ambiente Cloud
-
-### Versionamento de Código com Git e GitHub
-
-A diferença de Git e GitHub
-Como utilizar o Git
-Como utilizar o GitHub
-Como upar os projetos no GitHub
-Como integrar o repositório remoto (GitHub) no repositório local (máquina usada)
-Aprendemos comandos importantes do Git e GitHub, como:
-git init
-git push e git pull
-Aprendemos a importância de colocar os projetos pessoais no GitHub e como isso pesa na vida profissional.
-
-### Introdução a Computação em Nuvem
-Nesta aula, aprendemos o conceito da computação em nuvem, suas formas (pública, híbrida, privada) e quais são as vantagens de cada uma.
-
-### Desafio de Projetos: Crie um Portfolio Vencedor
-
-Como criar um portfolio e sua importância
-E táticas para o projeto "Contribuindo em um Projeto Open Source no GitHub"
-
 ## Conceitos Iniciais de Cloud com Azure
 
 ### Benefícios da nuvem
