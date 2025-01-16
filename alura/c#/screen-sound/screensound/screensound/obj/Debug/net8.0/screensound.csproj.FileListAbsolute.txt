@@ -1,0 +1,15 @@
+C:\Users\CamilaJesusdaSilva\source\repos\camilajesusdasilva\cursos\alura\c#\screen-sound\screensound\screensound\obj\Debug\net8.0\screensound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CamilaJesusdaSilva\source\repos\camilajesusdasilva\cursos\alura\c#\screen-sound\screensound\screensound\obj\Debug\net8.0\screensound.AssemblyInfoInputs.cache
+C:\Users\CamilaJesusdaSilva\source\repos\camilajesusdasilva\cursos\alura\c#\screen-sound\screensound\screensound\obj\Debug\net8.0\screensound.AssemblyInfo.cs
+C:\Users\CamilaJesusdaSilva\source\repos\camilajesusdasilva\cursos\alura\c#\screen-sound\screensound\screensound\obj\Debug\net8.0\screensound.csproj.CoreCompileInputs.cache
+C:\Users\CamilaJesusdaSilva\source\repos\camilajesusdasilva\cursos\alura\c#\screen-sound\screensound\screensound\obj\Debug\net8.0\screensound.sourcelink.json
+C:\Users\CamilaJesusdaSilva\source\repos\camilajesusdasilva\cursos\alura\c#\screen-sound\screensound\screensound\bin\Debug\net8.0\screensound.exe
+C:\Users\CamilaJesusdaSilva\source\repos\camilajesusdasilva\cursos\alura\c#\screen-sound\screensound\screensound\bin\Debug\net8.0\screensound.deps.json
+C:\Users\CamilaJesusdaSilva\source\repos\camilajesusdasilva\cursos\alura\c#\screen-sound\screensound\screensound\bin\Debug\net8.0\screensound.runtimeconfig.json
+C:\Users\CamilaJesusdaSilva\source\repos\camilajesusdasilva\cursos\alura\c#\screen-sound\screensound\screensound\bin\Debug\net8.0\screensound.dll
+C:\Users\CamilaJesusdaSilva\source\repos\camilajesusdasilva\cursos\alura\c#\screen-sound\screensound\screensound\bin\Debug\net8.0\screensound.pdb
+C:\Users\CamilaJesusdaSilva\source\repos\camilajesusdasilva\cursos\alura\c#\screen-sound\screensound\screensound\obj\Debug\net8.0\screensound.dll
+C:\Users\CamilaJesusdaSilva\source\repos\camilajesusdasilva\cursos\alura\c#\screen-sound\screensound\screensound\obj\Debug\net8.0\refint\screensound.dll
+C:\Users\CamilaJesusdaSilva\source\repos\camilajesusdasilva\cursos\alura\c#\screen-sound\screensound\screensound\obj\Debug\net8.0\screensound.pdb
+C:\Users\CamilaJesusdaSilva\source\repos\camilajesusdasilva\cursos\alura\c#\screen-sound\screensound\screensound\obj\Debug\net8.0\screensound.genruntimeconfig.cache
+C:\Users\CamilaJesusdaSilva\source\repos\camilajesusdasilva\cursos\alura\c#\screen-sound\screensound\screensound\obj\Debug\net8.0\ref\screensound.dll
